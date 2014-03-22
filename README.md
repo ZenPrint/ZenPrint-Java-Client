@@ -1,4 +1,4 @@
-Java-SDK
+ZenPrint-Java-Client
 ========
 
-Java SDK for Zenprint REST API
+Java Client for Zenprint REST API
